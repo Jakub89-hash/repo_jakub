@@ -1,0 +1,7 @@
+https://developer.mozilla.org/pl/docs/Learn/CSS/CSS_layout/Flexbox
+
+https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML
+
+https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps
+
+https://developer.mozilla.org/en-US/docs/Learn/Front-end_web_developer
